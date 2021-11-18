@@ -12,6 +12,28 @@
         <version>3.8.1</version>
         <configuration>
           <release>11</release>
+               
+
+                    <source>1.7</source> 
+
+                    <target>1.7</target> 
+
+                    <archive> 
+
+                        <manifest> 
+
+                            <addDefaultImplementationEntries>true</addDefaultImplementationEntries> 
+
+                            <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries> 
+
+                            <addClasspath>true</addClasspath> 
+
+                            <mainClass>org.jis.Main</mainClass>                                 
+
+                        </manifest> 
+
+                    </archive> 
+
         </configuration>
       </plugin>
     </plugins>
