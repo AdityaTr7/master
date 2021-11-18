@@ -14,9 +14,9 @@
           <release>11</release>
                
 
-                    <source>1.7</source> 
+                    <source>1.8</source> 
 
-                    <target>1.7</target> 
+                    <target>1.8</target> 
 
                     <archive> 
 
@@ -28,7 +28,7 @@
 
                             <addClasspath>true</addClasspath> 
 
-                            <mainClass>org.jis.Main</mainClass>                                 
+                            <mainClass>Main</mainClass>                                 
 
                         </manifest> 
 
